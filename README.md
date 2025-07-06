@@ -27,3 +27,17 @@ AI Model Training: Machine learning algorithms analyze past consumption patterns
 Prediction & Optimization: AI predicts future energy needs and optimizes usage.
 Automation & Alerts: The system automatically adjusts energy distribution and sends alerts.
 User Control: Users can monitor and control energy settings via a web or mobile app.
+
+**For the Energy Consumption Data_2023 we'll train the following model **
+Train LSTM to forecast future energy Demand and Detect Seasonal trends
+K Means Clustering : Segment Demand Periods into Low , Medium and High Usage periods
+K Means Clustering : Group Machines based on Energy Consumption pattern
+
+**For Equpment_n_Appliance_data, **
+SVM : Classify Normal v/s Faulty device behaviour
+Logistic Regression - To predict probability of Device Failure
+
+
+**for Cost_n_BIlling_data**
+Time Series Model – Predicts future electricity bills based on historical data.
+Reinforcement Learning (RL) – To Learns the best energy usage strategy based on changing electricity prices.
